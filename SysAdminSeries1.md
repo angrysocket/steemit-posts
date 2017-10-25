@@ -32,4 +32,3 @@ dd if=/ruta/a/la/imagen.iso |pv| dd of=/dev/sdbX
 
 ## Instalación ## 
 
-
